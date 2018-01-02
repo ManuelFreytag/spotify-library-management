@@ -1,0 +1,840 @@
+;0;1;2;3;4;genre
+0;african;african;african;african;african;african heavy metal
+1;african;african;african;african;african;african hip hop
+2;african;african;african;african;african;afrobeat
+3;african;african;african;african;african;apala
+4;african;african;african;african;african;benga
+5;african;african;african;african;african;bongo flava
+6;african;african;african;african;african;bikutsi
+7;african;african;african;african;african;cape jazz
+8;african;african;african;african;african;chimurenga
+9;african;african;african;african;african;congolese rumba
+10;african;african;african;african;african;coupé-décalé
+11;african;african;african;african;african;fuji music
+12;african;african;african;african;african;genge
+13;african;african;african;african;african;highlife
+14;african;african;african;african;african;hiplife
+15;african;african;african;african;african;igbo highlife
+16;african;african;african;african;african;igbo rap
+17;african;african;african;african;african;isicathamiya
+18;african;african;african;african;african;jit
+19;african;african;african;african;african;jùjú
+20;african;african;african;african;african;kapuka
+21;african;african;african;african;african;boomba
+22;african;african;african;african;african;kadongo kamu
+23;african;african;african;african;african;kizomba
+24;african;african;african;african;african;kuduro
+25;african;african;african;african;african;kwaito
+26;african;african;african;african;african;kwela
+27;african;african;african;african;african;makossa
+28;african;african;african;african;african;maloya
+29;african;african;african;african;african;marrabenta
+30;african;african;african;african;african;mbalax
+31;african;african;african;african;african;mbaqanga
+32;african;african;african;african;african;mbube
+33;african;african;african;african;african;amapiano 
+34;african;african;african;african;african;morna
+35;african;african;african;african;african;ndombolo
+36;african;african;african;african;african;palm-wine
+37;african;african;african;african;african;raï
+38;african;african;african;african;african;sakara
+39;african;african;african;african;african;sega
+40;african;african;african;african;african;seggae
+41;african;african;african;african;african;semba
+42;african;african;african;african;african;shangaan electro
+43;african;soukous;soukous;soukous;soukous;soukous
+44;african;soukous;soukous;soukous;soukous;kwassa kwassa
+45;african;african;african;african;african;taarab
+46;african;african;african;african;african;zouglou
+47;african;african;african;african;african;african
+48;asian;asian;asian;asian;asian;fann at-tanbura
+49;asian;asian;asian;asian;asian;fijiri
+50;asian;asian;asian;asian;asian;khaliji
+51;asian;asian;asian;asian;asian;liwa
+52;asian;asian;asian;asian;asian;sawt
+53;asian;east asian;east asian;east asian;east asian;east asian
+54;asian;east asian;east asian;east asian;east asian;anison
+55;asian;east asian;east asian;east asian;east asian;cantopop
+56;asian;east asian;east asian;east asian;east asian;c-pop
+57;asian;east asian;east asian;east asian;east asian;enka
+58;asian;east asian;east asian;east asian;east asian;hong kong english pop
+59;asian;east asian;east asian;east asian;east asian;j-pop
+60;asian;east asian;east asian;east asian;east asian;j-rock
+61;asian;east asian;east asian;east asian;east asian;kayōkyoku
+62;asian;east asian;east asian;east asian;east asian;k-pop
+63;asian;east asian;east asian;east asian;east asian;mandopop
+64;asian;east asian;east asian;east asian;east asian;onkyokei
+65;asian;east asian;east asian;east asian;east asian;p-pop
+66;asian;east asian;east asian;east asian;east asian;taiwanese pop
+67;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian
+68;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;baila
+69;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;baul
+70;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;bhangra
+71;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;dangdut
+72;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;filmi
+73;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;indian pop
+74;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;lavani
+75;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;luk thung
+76;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;luk krung
+77;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;manila sound
+78;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;original pilipino music
+79;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;v-pop
+80;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;morlam
+81;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;pinoy pop
+82;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;pop sunda
+83;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;thai pop
+84;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;ragini
+85;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;keroncong
+86;asian;south and southeast asian;south and southeast asian;south and southeast asian;south and southeast asian;gamelan
+87;asian;asian;asian;asian;asian;asian
+88;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde;experimental music
+89;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde;noise
+90;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde;lo-fi
+91;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde;musique concrete
+92;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde;electroacoustic
+93;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde;avant_garde
+94;blues;blues;blues;blues;blues;african blues
+95;blues;blues;blues;blues;blues;blues rock
+96;blues;blues;blues;blues;blues;blues shouter
+97;blues;blues;blues;blues;blues;british blues
+98;blues;blues;blues;blues;blues;canadian blues
+99;blues;blues;blues;blues;blues;chicago blues
+100;blues;blues;blues;blues;blues;classic female blues
+101;blues;blues;blues;blues;blues;contemporary r&b
+102;blues;blues;blues;blues;blues;country blues
+103;blues;blues;blues;blues;blues;delta blues
+104;blues;blues;blues;blues;blues;detroit blues
+105;blues;blues;blues;blues;blues;electric blues
+106;blues;blues;blues;blues;blues;gospel blues
+107;blues;blues;blues;blues;blues;hill country blues
+108;blues;blues;blues;blues;blues;hokum blues
+109;blues;blues;blues;blues;blues;jump blues
+110;blues;blues;blues;blues;blues;kansas city blues
+111;blues;blues;blues;blues;blues;louisiana blues
+112;blues;blues;blues;blues;blues;memphis blues
+113;blues;blues;blues;blues;blues;piedmont blues
+114;blues;blues;blues;blues;blues;punk blues
+115;blues;blues;blues;blues;blues;rhythm and blues
+116;blues;blues;blues;blues;blues;soul blues
+117;blues;blues;blues;blues;blues;st. louis blues
+118;blues;blues;blues;blues;blues;swamp blues
+119;blues;blues;blues;blues;blues;texas blues
+120;blues;blues;blues;blues;blues;west coast blues
+121;blues;blues;blues;blues;blues;blues
+122;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;baithak gana
+123;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;dancehall music
+124;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;bouyon
+125;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;cadence-lypso
+126;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;calypso
+127;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;cha-cha-chá
+128;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;chutney
+129;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;chutney soca
+130;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;compas
+131;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;mambo
+132;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;merengue
+133;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;méringue
+134;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;mozambique
+135;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;punta
+136;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;punta rock
+137;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;rasin
+138;caribbean_influenced;reggae;reggae;reggae;reggae;reggae
+139;caribbean_influenced;reggae;reggae;reggae;reggae;dancehall
+140;caribbean_influenced;reggae;reggae;reggae;reggae;dub
+141;caribbean_influenced;reggae;reggae;reggae;reggae;lovers rock
+142;caribbean_influenced;reggae;reggae;reggae;reggae;ragga
+143;caribbean_influenced;reggae;reggae;reggae;reggae;ragga jungle
+144;caribbean_influenced;reggae;reggae;reggae;reggae;reggae fusion
+145;caribbean_influenced;reggae;reggae;reggae;reggae;reggaeton
+146;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;rocksteady
+147;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;rhumba
+148;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;rumba
+149;caribbean_influenced;ska;ska;ska;ska;ska
+150;caribbean_influenced;ska;ska;ska;ska;2 tone
+151;caribbean_influenced;ska;ska;ska;ska;ska punk
+152;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;salsa
+153;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;son cubano
+154;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;songo
+155;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;soca
+156;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;timba
+157;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;twoubadou
+158;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;zouk
+159;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced;caribbean_influenced
+160;comedy;comedy;comedy;comedy;comedy;comedy music
+161;comedy;comedy;comedy;comedy;comedy;comedy rock
+162;comedy;comedy;comedy;comedy;comedy;novelty music
+163;comedy;comedy;comedy;comedy;comedy;parody music
+164;comedy;comedy;comedy;comedy;comedy;comedy
+165;country;alternative country;alternative country;alternative country;alternative country;alternative country
+166;country;alternative country;alternative country;alternative country;alternative country;cowpunk
+167;country;country;country;country;country;country blues
+168;country;country;country;country;country;blues country
+169;country;country;country;country;country;hokum
+170;country;country;country;country;country;outlaw country
+171;country;country;country;country;country;progressive country
+172;country;country;country;country;country;zydeco
+173;country;country;country;country;country;country rap
+174;country;country;country;country;country;red dirt
+175;country;rockabilly;rockabilly;rockabilly;rockabilly;rockabilly
+176;country;rockabilly;rockabilly;rockabilly;rockabilly;hellbilly music
+177;country;rockabilly;rockabilly;rockabilly;rockabilly;psychobilly
+178;country;rockabilly;rockabilly;rockabilly;rockabilly;punkabilly
+179;country;country;country;country;country;country rock
+180;country;country;country;country;country;texas country
+181;country;country;country;country;country;americana
+182;country;country;country;country;country;australian country music
+183;country;country;country;country;country;bakersfield sound
+184;country;bluegrass;bluegrass;bluegrass;bluegrass;bluegrass
+185;country;bluegrass;bluegrass;bluegrass;bluegrass;progressive bluegrass
+186;country;bluegrass;bluegrass;bluegrass;bluegrass;reactionary bluegrass
+187;country;cajun;cajun;cajun;cajun;cajun
+188;country;cajun;cajun;cajun;cajun;cajun fiddle
+189;country;cajun;cajun;cajun;cajun;cajun fiddle tunes
+190;country;country;country;country;country;christian country music
+191;country;country;country;country;country;classic country
+192;country;country;country;country;country;close harmony
+193;country;country;country;country;country;dansband music
+194;country;country;country;country;country;franco-countr
+195;country;country;country;country;country;honky tonk
+196;country;country;country;country;country;instrumental country
+197;country;country;country;country;country;nashville sound
+198;country;country;country;country;country;neotraditional country
+199;country;country;country;country;country;country pop
+200;country;country;country;country;country;sertanejo
+201;country;country;country;country;country;traditional country music
+202;country;country;country;country;country;truck-driving country
+203;country;country;country;country;country;western swing
+204;country;country;country;country;country;country
+205;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;background music
+206;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;beautiful music
+207;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;elevator music
+208;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;furniture music
+209;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;lounge music
+210;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;middle of the road
+211;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;new-age music
+212;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening;easy_listening
+213;electronic;ambient;ambient;ambient;ambient;ambient
+214;electronic;ambient;ambient;ambient;ambient;ambient dub
+215;electronic;ambient;ambient;ambient;ambient;dark ambient
+216;electronic;ambient;ambient;ambient;ambient;drone music
+217;electronic;ambient;ambient;ambient;ambient;space music
+218;electronic;ambient;ambient;ambient;ambient;illbient
+219;electronic;ambient;ambient;ambient;ambient;psybient
+220;electronic;ambient;ambient;ambient;ambient;isolationism
+221;electronic;ambient;ambient;ambient;ambient;lowercase
+222;electronic;electronic;electronic;electronic;electronic;asian underground
+223;electronic;breakbeat;breakbeat;breakbeat;breakbeat;breakbeat
+224;electronic;breakbeat;breakbeat;breakbeat;breakbeat;acid breaks
+225;electronic;breakbeat;breakbeat;breakbeat;breakbeat;baltimore club
+226;electronic;breakbeat;breakbeat;breakbeat;breakbeat;big beat
+227;electronic;breakbeat;breakbeat;breakbeat;breakbeat;broken beat
+228;electronic;breakbeat;florida breaks;florida breaks;florida breaks;florida breaks
+229;electronic;breakbeat;florida breaks;florida breaks;florida breaks;nu-funk
+230;electronic;breakbeat;florida breaks;florida breaks;florida breaks;miami bass
+231;electronic;breakbeat;breakbeat;breakbeat;breakbeat;jersey club
+232;electronic;breakbeat;breakbeat;breakbeat;breakbeat;nu skool breaks
+233;electronic;disco;disco;disco;disco;disco
+234;electronic;disco;disco;disco;disco;afro disc
+235;electronic;disco;disco;disco;disco;cosmic disco
+236;electronic;disco;disco;disco;disco;disco polo
+237;electronic;disco;disco;disco;disco;euro disco
+238;electronic;disco;disco;disco;disco;italo disco
+239;electronic;disco;disco;disco;disco;nu-disco
+240;electronic;disco;disco;disco;disco;space disco
+241;electronic;downtempo;downtempo;downtempo;downtempo;downtempo
+242;electronic;downtempo;downtempo;downtempo;downtempo;acid jazz
+243;electronic;downtempo;downtempo;downtempo;downtempo;chill-out
+244;electronic;downtempo;new-age music;new-age music;new-age music;new-age music
+245;electronic;downtempo;new-age music;new-age music;new-age music;space music
+246;electronic;downtempo;downtempo;downtempo;downtempo;trip hop
+247;electronic;drum and bass;drum and bass;drum and bass;drum and bass;drum and bass
+248;electronic;drum and bass;drum and bass;drum and bass;drum and bass;darkstep
+249;electronic;drum and bass;drum and bass;drum and bass;drum and bass;drill and bass
+250;electronic;drum and bass;drum and bass;drum and bass;drum and bass;drumstep
+251;electronic;drum and bass;drum and bass;drum and bass;drum and bass;funkstep
+252;electronic;drum and bass;drum and bass;drum and bass;drum and bass;hardstep
+253;electronic;drum and bass;drum and bass;drum and bass;drum and bass;jump-up
+254;electronic;drum and bass;drum and bass;drum and bass;drum and bass;liquid funk
+255;electronic;drum and bass;drum and bass;drum and bass;drum and bass;neurofunk
+256;electronic;drum and bass;drum and bass;drum and bass;drum and bass;neurohop
+257;electronic;drum and bass;drum and bass;drum and bass;drum and bass;sambass
+258;electronic;drum and bass;drum and bass;drum and bass;drum and bass;techstep
+259;electronic;electronic;electronic;electronic;electronic;dub
+260;electronic;electro music;electro music;electro music;electro music;electro music
+261;electronic;electro music;electro music;electro music;electro music;freestyle music
+262;electronic;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music
+263;electronic;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music;acousmatic music
+264;electronic;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music;musique concrète
+265;electronic;electronic rock;electronic rock;electronic rock;electronic rock;electronic rock
+266;electronic;electronic rock;alternative dance;alternative dance;alternative dance;alternative dance
+267;electronic;electronic rock;alternative dance;alternative dance;alternative dance;indietronica
+268;electronic;electronic rock;electronic rock;electronic rock;electronic rock;coldwave
+269;electronic;electronic rock;electronic rock;electronic rock;electronic rock;dance-punk
+270;electronic;electronic rock;electronic rock;electronic rock;electronic rock;dark wave
+271;electronic;electronic rock;electronic rock;electronic rock;electronic rock;electroclash
+272;electronic;electronic rock;electronic rock;electronic rock;electronic rock;electronicore
+273;electronic;electronic rock;electronic rock;electronic rock;electronic rock;electropunk
+274;electronic;electronic rock;electronic rock;electronic rock;electronic rock;ethereal wave
+275;electronic;electronic rock;electronic rock;electronic rock;electronic rock;krautrock
+276;electronic;electronic rock;electronic rock;electronic rock;electronic rock;minimal wave
+277;electronic;electronic rock;electronic rock;electronic rock;electronic rock;new rave
+278;electronic;electronic rock;electronic rock;electronic rock;electronic rock;nu-gaze
+279;electronic;electronic rock;electronic rock;electronic rock;electronic rock;space rock
+280;electronic;electronic rock;synthpop;synthpop;synthpop;synthpop
+281;electronic;electronic rock;synthpop;synthpop;synthpop;synthwave
+282;electronic;electronica;electronica;electronica;electronica;electronica
+283;electronic;electronica;electronica;electronica;electronica;berlin school
+284;electronic;electronica;electronica;electronica;electronica;dubtronica
+285;electronic;electronica;electronica;electronica;electronica;ethnic electronica
+286;electronic;electronica;electronica;electronica;electronica;folktronica
+287;electronic;electronica;electronica;electronica;electronica;funktronica
+288;electronic;electronica;electronica;electronica;electronica;laptronica
+289;electronic;electronica;electronica;electronica;electronica;livetronica
+290;electronic;hardcore;hardcore;hardcore;hardcore;hardcore
+291;electronic;hardcore;hardcore;hardcore;hardcore;gabba
+292;electronic;hardcore;hardcore;hardcore;hardcore;4-beat
+293;electronic;hardcore;hardcore;hardcore;hardcore;breakbeat hardcore
+294;electronic;hardcore;hardcore;hardcore;hardcore;bouncy techno
+295;electronic;hardcore;hardcore;hardcore;hardcore;breakcore
+296;electronic;hardcore;hardcore;hardcore;hardcore;digital hardcore
+297;electronic;hardcore;hardcore;hardcore;hardcore;darkcore
+298;electronic;hardcore;hardcore;hardcore;hardcore;happy hardcore
+299;electronic;hardcore;hardcore;hardcore;hardcore;mákina
+300;electronic;hardcore;hardcore;hardcore;hardcore;speedcore
+301;electronic;hardcore;hardcore;hardcore;hardcore;uk hardcore
+302;electronic;hardcore;hardcore;hardcore;hardcore;doomcore
+303;electronic;hardstyle;hardstyle;hardstyle;hardstyle;hardstyle
+304;electronic;hardstyle;hardstyle;hardstyle;hardstyle;dubstyle
+305;electronic;hardstyle;hardstyle;hardstyle;hardstyle;jumpstyle
+306;electronic;hardstyle;hardstyle;hardstyle;hardstyle;lento violento
+307;electronic;hi-nrg;hi-nrg;hi-nrg;hi-nrg;hi-nrg
+308;electronic;hi-nrg;hi-nrg;hi-nrg;hi-nrg;eurobeat
+309;electronic;hi-nrg;eurodance;eurodance;eurodance;eurodance
+310;electronic;hi-nrg;eurodance;eurodance;eurodance;bubblegum dance
+311;electronic;hi-nrg;eurodance;eurodance;eurodance;italo dance
+312;electronic;house music;house music;house music;house music;house music
+313;electronic;house music;house music;house music;house music;acid house
+314;electronic;house music;house music;house music;house music;ambient house
+315;electronic;house music;house music;house music;house music;balearic beat
+316;electronic;house music;house music;house music;house music;chicago house
+317;electronic;house music;deep house;deep house;deep house;deep house
+318;electronic;house music;deep house;deep house;deep house;future house
+319;electronic;house music;deep house;deep house;deep house;tropical house
+320;electronic;house music;house music;house music;house music;bouncy house
+321;electronic;house music;house music;house music;house music;diva house
+322;electronic;house music;electro house;electro house;electro house;electro house
+323;electronic;house music;electro house;electro house;electro house;big room
+324;electronic;house music;electro house;electro house;electro house;complextro
+325;electronic;house music;electro house;electro house;electro house;fidget house
+326;electronic;house music;electro house;electro house;electro house;dutch house
+327;electronic;house music;electro house;moombahton;moombahton;moombahton
+328;electronic;house music;electro house;moombahton;moombahton;moombahcore
+329;electronic;house music;house music;house music;house music;electro swing
+330;electronic;house music;house music;house music;house music;french house
+331;electronic;house music;house music;house music;house music;funky house
+332;electronic;house music;house music;house music;house music;garage house
+333;electronic;house music;ghetto house;ghetto house;ghetto house;ghetto house
+334;electronic;house music;ghetto house;ghetto house;ghetto house;ghettotech
+335;electronic;house music;house music;house music;house music;hardbag
+336;electronic;house music;hard house;hard house;hard house;hard house
+337;electronic;house music;hard house;hard nrg;hard nrg;hard nrg
+338;electronic;house music;hard house;hard nrg;hard nrg;nu-nrg
+339;electronic;house music;house music;house music;house music;house
+340;electronic;house music;house music;house music;house music;hip house
+341;electronic;house music;house music;house music;house music;italo house
+342;electronic;house music;house music;house music;house music;jazz house
+343;electronic;house music;house music;house music;house music;kwaito
+344;electronic;house music;house music;house music;house music;latin house
+345;electronic;house music;house music;house music;house music;microhouse
+346;electronic;house music;house music;house music;house music;new beat
+347;electronic;house music;house music;house music;house music;outsider house
+348;electronic;house music;house music;house music;house music;progressive house
+349;electronic;house music;house music;house music;house music;rara tech
+350;electronic;house music;house music;house music;house music;tech house
+351;electronic;house music;house music;house music;house music;tribal house
+352;electronic;house music;house music;house music;house music;trival
+353;electronic;house music;house music;house music;house music;witch house
+354;electronic;industrial music;industrial music;industrial music;industrial music;industrial music
+355;electronic;industrial music;industrial music;industrial music;industrial music;aggrotech
+356;electronic;industrial music;industrial music;industrial music;industrial music;cybergrind
+357;electronic;industrial music;industrial music;industrial music;industrial music;electro-industrial
+358;electronic;industrial music;industrial music;industrial music;industrial music;dark electro
+359;electronic;industrial music;industrial music;industrial music;industrial music;electronic body music
+360;electronic;industrial music;industrial music;industrial music;industrial music;futurepop
+361;electronic;industrial music;industrial music;industrial music;industrial music;industrial metal
+362;electronic;industrial music;industrial music;industrial music;industrial music;industrial rock
+363;electronic;industrial music;industrial music;industrial music;industrial music;japanoise
+364;electronic;industrial music;industrial music;industrial music;industrial music;neue deutsche härte
+365;electronic;industrial music;power electronics;power electronics;power electronics;power electronics
+366;electronic;industrial music;power electronics;power electronics;power electronics;death industrial
+367;electronic;industrial music;industrial music;industrial music;industrial music;power noise
+368;electronic;idm;idm;idm;idm;idm
+369;electronic;idm;glitch;glitch;glitch;glitch
+370;electronic;idm;glitch;glitch;glitch;glitch hop
+371;electronic;idm;idm;idm;idm;wonky
+372;electronic;jungle;jungle;jungle;jungle;jungle
+373;electronic;jungle;jungle;jungle;jungle;darkcore jungle
+374;electronic;jungle;jungle;jungle;jungle;raggacore
+375;electronic;post-disco;post-disco;post-disco;post-disco;post-disco
+376;electronic;post-disco;post-disco;post-disco;post-disco;boogie
+377;electronic;post-disco;electropop;electropop;electropop;electropop
+378;electronic;post-disco;electropop;electropop;electropop;chillwave
+379;electronic;post-disco;post-disco;post-disco;post-disco;dance-pop
+380;electronic;post-disco;post-disco;post-disco;post-disco;dance-rock
+381;electronic;techno;techno;techno;techno;techno
+382;electronic;techno;techno;techno;techno;acid techno
+383;electronic;techno;techno;techno;techno;detroit techno
+384;electronic;techno;techno;techno;techno;dub techno
+385;electronic;techno;techno;techno;techno;free tekno
+386;electronic;techno;techno;techno;techno;minimal techno
+387;electronic;techno;techno;techno;techno;nortec
+388;electronic;techno;techno;techno;techno;tecno brega
+389;electronic;techno;techno;techno;techno;techdombe
+390;electronic;trance music;trance music;trance music;trance music;trance music
+391;electronic;trance music;trance music;trance music;trance music;acid trance
+392;electronic;trance music;trance music;trance music;trance music;balearic trance
+393;electronic;trance music;trance music;trance music;trance music;dream trance
+394;electronic;trance music;trance music;trance music;trance music;goa trance
+395;electronic;trance music;trance music;trance music;trance music;hard trance
+396;electronic;trance music;trance music;trance music;trance music;nitzhonot
+397;electronic;trance music;psychedelic trance;psychedelic trance;psychedelic trance;psychedelic trance
+398;electronic;trance music;psychedelic trance;psychedelic trance;psychedelic trance;suomisaundi
+399;electronic;trance music;psychedelic trance;psychedelic trance;psychedelic trance;full on
+400;electronic;trance music;trance music;trance music;trance music;progressive trance
+401;electronic;trance music;trance music;trance music;trance music;tech trance
+402;electronic;trance music;trance music;trance music;trance music;uplifting trance
+403;electronic;trance music;trance music;trance music;trance music;vocal trance
+404;electronic;uk garage;uk garage;uk garage;uk garage;uk garage
+405;electronic;uk garage;2-step garage;2-step garage;2-step garage;2-step garage
+406;electronic;uk garage;2-step garage;dubstep;dubstep;dubstep
+407;electronic;uk garage;2-step garage;dubstep;dubstep;brostep
+408;electronic;uk garage;2-step garage;dubstep;dubstep;chillstep
+409;electronic;uk garage;2-step garage;dubstep;dubstep;reggaestep
+410;electronic;uk garage;2-step garage;dubstep;dubstep;trapstep
+411;electronic;uk garage;2-step garage;dubstep;dubstep;liquid dubstep
+412;electronic;uk garage;2-step garage;dubstep;dubstep;metalstep
+413;electronic;uk garage;2-step garage;2-step garage;2-step garage;neurohop
+414;electronic;uk garage;uk garage;uk garage;uk garage;breakstep
+415;electronic;uk garage;uk garage;uk garage;uk garage;future garage
+416;electronic;uk garage;grime;grime;grime;grime
+417;electronic;uk garage;grime;grime;grime;grindie
+418;electronic;uk garage;speed garage;speed garage;speed garage;speed garage
+419;electronic;uk garage;speed garage;speed garage;speed garage;bassline
+420;electronic;uk garage;uk garage;uk garage;uk garage;uk funky
+421;electronic;electronic;electronic;electronic;electronic;vaporwave
+422;electronic;video game music;video game music;video game music;video game music;video game music
+423;electronic;video game music;chiptune;chiptune;chiptune;chiptune
+424;electronic;video game music;chiptune;chiptune;chiptune;bitpop
+425;electronic;video game music;chiptune;chiptune;chiptune;game boy music
+426;electronic;video game music;chiptune;chiptune;chiptune;skweee
+427;electronic;video game music;video game music;video game music;video game music;nintendocore
+428;electronic;electronic;electronic;electronic;electronic;electronic
+429;folk;folk;folk;folk;folk;american folk revival
+430;folk;folk;folk;folk;folk;anti-folk
+431;folk;folk;folk;folk;folk;british folk revival
+432;folk;folk;folk;folk;folk;celtic music
+433;folk;folk;folk;folk;folk;chalga
+434;folk;folk;folk;folk;folk;contemporary folk
+435;folk;folk;folk;folk;folk;filk music
+436;folk;folk;folk;folk;folk;folktronica
+437;folk;folk;folk;folk;folk;freak folk
+438;folk;folk;folk;folk;folk;indie folk
+439;folk;folk;folk;folk;folk;industrial folk
+440;folk;folk;folk;folk;folk;neofolk
+441;folk;folk;folk;folk;folk;progressive folk
+442;folk;folk;folk;folk;folk;protest song
+443;folk;folk;folk;folk;folk;psychedelic folk
+444;folk;folk;folk;folk;folk;singer-songwriter
+445;folk;folk;folk;folk;folk;skiffle
+446;folk;folk;folk;folk;folk;sung poetry
+447;folk;folk;folk;folk;folk;cowboy/western music
+448;folk;folk;folk;folk;folk;folk
+449;hip hop;trap;trap;trap;trap;trap
+450;hip hop;trap;trap;trap;trap;trap music
+451;hip hop;rap;rap;rap;rap;rap
+452;hip hop;rap;rap;rap;rap;mumble rap
+453;hip hop;hip hop;hip hop;hip hop;hip hop;alternative hip hop
+454;hip hop;hip hop;hip hop;hip hop;hip hop;australian hip hop
+455;hip hop;hip hop;hip hop;hip hop;hip hop;bongo flava
+456;hip hop;hip hop;hip hop;hip hop;hip hop;british hip hop
+457;hip hop;hip hop;hip hop;hip hop;hip hop;chap hop
+458;hip hop;hip hop;hip hop;hip hop;hip hop;christian hip hop
+459;hip hop;hip hop;hip hop;hip hop;hip hop;conscious hip hop
+460;hip hop;hip hop;hip hop;hip hop;hip hop;crunk
+461;hip hop;hip hop;hip hop;hip hop;hip hop;crunkcore
+462;hip hop;hip hop;hip hop;hip hop;hip hop;drill
+463;hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop
+464;hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop;baltimore club
+465;hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop;brick city club
+466;hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop;hardcore hip hop
+467;hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop;mafioso rap
+468;hip hop;east coast hip hop;east coast hip hop;east coast hip hop;east coast hip hop;new jersey hip hop
+469;hip hop;hip hop;hip hop;hip hop;hip hop;electro music
+470;hip hop;hip hop;hip hop;hip hop;hip hop;experimental hip hop
+471;hip hop;hip hop;hip hop;hip hop;hip hop;ghetto house
+472;hip hop;hip hop;hip hop;hip hop;hip hop;ghettotech
+473;hip hop;hip hop;hip hop;hip hop;hip hop;golden age hip hop
+474;hip hop;hip hop;hip hop;hip hop;hip hop;grime
+475;hip hop;hip hop;hip hop;hip hop;hip hop;hardcore hip hop
+476;hip hop;hip hop;hip hop;hip hop;hip hop;hip house
+477;hip hop;hip hop;hip hop;hip hop;hip hop;hiplife
+478;hip hop;hip hop;hip hop;hip hop;hip hop;hip pop
+479;hip hop;hip hop;hip hop;hip hop;hip hop;industrial hip hop
+480;hip hop;hip hop;hip hop;hip hop;hip hop;instrumental hip hop
+481;hip hop;hip hop;hip hop;hip hop;hip hop;kwaito
+482;hip hop;hip hop;hip hop;hip hop;hip hop;lyrical hip hop
+483;hip hop;hip hop;hip hop;hip hop;hip hop;low bap
+484;hip hop;midwest hip hop;midwest hip hop;midwest hip hop;midwest hip hop;midwest hip hop
+485;hip hop;midwest hip hop;chicago hip hop;chicago hip hop;chicago hip hop;chicago hip hop
+486;hip hop;midwest hip hop;chicago hip hop;chicago hip hop;chicago hip hop;ghetto house
+487;hip hop;midwest hip hop;detroit hip hop;detroit hip hop;detroit hip hop;detroit hip hop
+488;hip hop;midwest hip hop;detroit hip hop;detroit hip hop;detroit hip hop;ghettotech
+489;hip hop;midwest hip hop;midwest hip hop;midwest hip hop;midwest hip hop;st. louis hip hop
+490;hip hop;midwest hip hop;midwest hip hop;midwest hip hop;midwest hip hop;twin cities hip hop
+491;hip hop;midwest hip hop;midwest hip hop;midwest hip hop;midwest hip hop;horrorcore
+492;hip hop;hip hop;hip hop;hip hop;hip hop;merenrap
+493;hip hop;hip hop;hip hop;hip hop;hip hop;motswako
+494;hip hop;hip hop;hip hop;hip hop;hip hop;nerdcore
+495;hip hop;hip hop;hip hop;hip hop;hip hop;new jack swing
+496;hip hop;hip hop;hip hop;hip hop;hip hop;new school hip hop
+497;hip hop;hip hop;hip hop;hip hop;hip hop;old school hip hop
+498;hip hop;hip hop;hip hop;hip hop;hip hop;political hip hop
+499;hip hop;hip hop;hip hop;hip hop;hip hop;ragga
+500;hip hop;reggaeton;reggaeton;reggaeton;reggaeton;reggaeton
+501;hip hop;reggaeton;reggaeton;reggaeton;reggaeton;g-funk
+502;hip hop;reggaeton;reggaeton;reggaeton;reggaeton;hyphy
+503;hip hop;reggaeton;reggaeton;reggaeton;reggaeton;jerkin'
+504;hip hop;hip hop;hip hop;hip hop;hip hop;hip hop
+505;jazz;jazz;jazz;jazz;jazz;acid jazz
+506;jazz;jazz;jazz;jazz;jazz;afro-cuban jazz
+507;jazz;jazz;jazz;jazz;jazz;asian american jazz
+508;jazz;jazz;jazz;jazz;jazz;avant-garde jazz
+509;jazz;jazz;jazz;jazz;jazz;bebop
+510;jazz;jazz;jazz;jazz;jazz;boogie-woogie
+511;jazz;jazz;jazz;jazz;jazz;bossa nova
+512;jazz;jazz;jazz;jazz;jazz;british dance band
+513;jazz;jazz;jazz;jazz;jazz;cape jazz
+514;jazz;jazz;jazz;jazz;jazz;chamber jazz
+515;jazz;jazz;jazz;jazz;jazz;continental jazz
+516;jazz;jazz;jazz;jazz;jazz;cool jazz
+517;jazz;jazz;jazz;jazz;jazz;crossover jazz
+518;jazz;jazz;jazz;jazz;jazz;dixieland
+519;jazz;jazz;jazz;jazz;jazz;ethno jazz
+520;jazz;jazz;jazz;jazz;jazz;european free jazz
+521;jazz;jazz;jazz;jazz;jazz;free funk
+522;jazz;jazz;jazz;jazz;jazz;free improvisation
+523;jazz;jazz;jazz;jazz;jazz;free jazz
+524;jazz;jazz;jazz;jazz;jazz;gypsy jazz
+525;jazz;jazz;jazz;jazz;jazz;hard bop
+526;jazz;jazz;jazz;jazz;jazz;jazz blues
+527;jazz;jazz;jazz;jazz;jazz;jazz-funk
+528;jazz;jazz;jazz;jazz;jazz;jazz fusion
+529;jazz;jazz;jazz;jazz;jazz;jazz rap
+530;jazz;jazz;jazz;jazz;jazz;jazz rock
+531;jazz;jazz;jazz;jazz;jazz;kansas city blues
+532;jazz;jazz;jazz;jazz;jazz;kansas city jazz
+533;jazz;jazz;jazz;jazz;jazz;latin jazz
+534;jazz;jazz;jazz;jazz;jazz;livetronica
+535;jazz;jazz;jazz;jazz;jazz;m-base
+536;jazz;jazz;jazz;jazz;jazz;mainstream jazz
+537;jazz;jazz;jazz;jazz;jazz;modal jazz
+538;jazz;jazz;jazz;jazz;jazz;neo-bop jazz
+539;jazz;jazz;jazz;jazz;jazz;neo-swing
+540;jazz;jazz;jazz;jazz;jazz;novelty ragtime
+541;jazz;jazz;jazz;jazz;jazz;nu jazz
+542;jazz;jazz;jazz;jazz;jazz;orchestral jazz
+543;jazz;jazz;jazz;jazz;jazz;post-bop
+544;jazz;jazz;jazz;jazz;jazz;punk jazz
+545;jazz;jazz;jazz;jazz;jazz;ragtime
+546;jazz;jazz;jazz;jazz;jazz;shibuya-kei
+547;jazz;jazz;jazz;jazz;jazz;ska jazz
+548;jazz;jazz;jazz;jazz;jazz;smooth jazz
+549;jazz;jazz;jazz;jazz;jazz;soul jazz
+550;jazz;jazz;jazz;jazz;jazz;stride jazz
+551;jazz;jazz;jazz;jazz;jazz;straight-ahead jazz
+552;jazz;jazz;jazz;jazz;jazz;swing
+553;jazz;jazz;jazz;jazz;jazz;third stream
+554;jazz;jazz;jazz;jazz;jazz;trad jazz
+555;jazz;jazz;jazz;jazz;jazz;vocal jazz
+556;jazz;jazz;jazz;jazz;jazz;west coast jazz
+557;jazz;jazz;jazz;jazz;jazz;jazz
+558;latin;brazilian;brazilian;brazilian;brazilian;brazilian
+559;latin;brazilian;brazilian;brazilian;brazilian;axé
+560;latin;brazilian;brazilian;brazilian;brazilian;brazilian rock
+561;latin;brazilian;brazilian;brazilian;brazilian;brega
+562;latin;brazilian;brazilian;brazilian;brazilian;tecnobrega
+563;latin;brazilian;brazilian;brazilian;brazilian;choro
+564;latin;brazilian;brazilian;brazilian;brazilian;forró
+565;latin;brazilian;brazilian;brazilian;brazilian;frevo
+566;latin;brazilian;brazilian;brazilian;brazilian;funk carioca
+567;latin;brazilian;brazilian;brazilian;brazilian;lambada
+568;latin;brazilian;brazilian;brazilian;brazilian;zouk-lambada
+569;latin;brazilian;brazilian;brazilian;brazilian;maracatu
+570;latin;brazilian;brazilian;brazilian;brazilian;música popular brasileira
+571;latin;brazilian;brazilian;brazilian;brazilian;tropicalia
+572;latin;brazilian;brazilian;brazilian;brazilian;música sertaneja
+573;latin;brazilian;brazilian;brazilian;brazilian;samba
+574;latin;brazilian;brazilian;brazilian;brazilian;pagode
+575;latin;brazilian;brazilian;brazilian;brazilian;samba rock
+576;latin;latin;latin;latin;latin;latin christian
+577;latin;latin jazz;latin jazz;latin jazz;latin jazz;latin jazz
+578;latin;latin jazz;latin jazz;latin jazz;latin jazz;afro-cuban jazz
+579;latin;latin jazz;latin jazz;latin jazz;latin jazz;bossa nova
+580;latin;latin pop;latin pop;latin pop;latin pop;latin pop
+581;latin;latin pop;latin pop;latin pop;latin pop;latin ballad
+582;latin;latin;latin;latin;latin;latin swing
+583;latin;latin rock;latin rock;latin rock;latin rock;latin rock
+584;latin;latin rock;latin rock;latin rock;latin rock;latin alternative
+585;latin;latin rock;latin rock;latin rock;latin rock;rock en espangol
+586;latin;latin;latin;latin;latin;reggaeton
+587;latin;regional mexican;regional mexican;regional mexican;regional mexican;regional mexican
+588;latin;regional mexican;regional mexican;regional mexican;regional mexican;banda
+589;latin;regional mexican;regional mexican;regional mexican;regional mexican;grupera
+590;latin;regional mexican;mariachi;mariachi;mariachi;mariachi
+591;latin;regional mexican;mariachi;mariachi;mariachi;ranchera
+592;latin;regional mexican;regional mexican;regional mexican;regional mexican;norteño
+593;latin;regional mexican;regional mexican;regional mexican;regional mexican;tejano
+594;latin;latin;latin;latin;latin;flamenco
+595;latin;latin;latin;latin;latin;tango
+596;latin;fol;fol;fol;fol;fol
+597;latin;fol;fol;fol;fol;bullerengue
+598;latin;fol;fol;fol;fol;fado
+599;latin;fol;fol;fol;fol;huayno
+600;latin;fol;fol;fol;fol;mexican son
+601;latin;fol;fol;fol;fol;masica criolla
+602;latin;fol;fol;fol;fol;nueva canción
+603;latin;tropical;tropical;tropical;tropical;tropical
+604;latin;tropical;tropical;tropical;tropical;bachata
+605;latin;tropical;tropical;tropical;tropical;bolero
+606;latin;tropical;tropical;tropical;tropical;criolla
+607;latin;tropical;tropical;tropical;tropical;cumbia
+608;latin;tropical;tropical;tropical;tropical;chicha
+609;latin;tropical;tropical;tropical;tropical;porro
+610;latin;tropical;tropical;tropical;tropical;guajira
+611;latin;tropical;tropical;tropical;tropical;mambo
+612;latin;tropical;tropical;tropical;tropical;merengue
+613;latin;tropical;tropical;tropical;tropical;rumba
+614;latin;tropical;tropical;tropical;tropical;[cuban rumba
+615;latin;tropical;tropical;tropical;tropical;salsa
+616;latin;tropical;tropical;tropical;tropical;son
+617;latin;tropical;tropical;tropical;tropical;timba
+618;latin;tropical;tropical;tropical;tropical;tropipop
+619;latin;tropical;tropical;tropical;tropical;vallenato
+620;latin;latin;latin;latin;latin;latin
+621;pop;pop;pop;pop;pop;adult contemporary
+622;pop;pop;pop;pop;pop;arab pop
+623;pop;pop;pop;pop;pop;baroque pop
+624;pop;pop;pop;pop;pop;brill building
+625;pop;pop;pop;pop;pop;britpop
+626;pop;pop;pop;pop;pop;bubblegum pop
+627;pop;pop;pop;pop;pop;canción
+628;pop;pop;pop;pop;pop;canzone
+629;pop;pop;pop;pop;pop;chalga
+630;pop;pop;pop;pop;pop;chanson
+631;pop;pop;pop;pop;pop;christian pop
+632;pop;pop;pop;pop;pop;classical crossover
+633;pop;pop;pop;pop;pop;country pop
+634;pop;pop;pop;pop;pop;c-pop
+635;pop;pop;pop;pop;pop;mandopop
+636;pop;pop;pop;pop;pop;dance-pop
+637;pop;pop;pop;pop;pop;disco polo
+638;pop;pop;pop;pop;pop;electropop
+639;pop;pop;pop;pop;pop;europop
+640;pop;pop;pop;pop;pop;austropop
+641;pop;pop;pop;pop;pop;eurobeat
+642;pop;pop;pop;pop;pop;french pop
+643;pop;pop;pop;pop;pop;italo dance
+644;pop;pop;pop;pop;pop;italo disco
+645;pop;pop;pop;pop;pop;laïkó
+646;pop;pop;pop;pop;pop;latin pop
+647;pop;pop;pop;pop;pop;nederpop
+648;pop;pop;pop;pop;pop;russian pop
+649;pop;pop;pop;pop;pop;folk pop
+650;pop;pop;pop;pop;pop;iranian pop
+651;pop;pop;pop;pop;pop;indie pop
+652;pop;pop;pop;pop;pop;j-pop
+653;pop;pop;pop;pop;pop;jangle pop
+654;pop;pop;pop;pop;pop;k-pop
+655;pop;pop;pop;pop;pop;latin ballad
+656;pop;pop;pop;pop;pop;louisiana swamp pop
+657;pop;pop;pop;pop;pop;mexican pop
+658;pop;pop;pop;pop;pop;new romanticism
+659;pop;pop;pop;pop;pop;operatic pop
+660;pop;pop;pop;pop;pop;pop rap
+661;pop;pop;pop;pop;pop;pop rock
+662;pop;pop;pop;pop;pop;power pop
+663;pop;pop;pop;pop;pop;soft rock
+664;pop;pop;pop;pop;pop;pop soul
+665;pop;pop;pop;pop;pop;progressive pop
+666;pop;pop;pop;pop;pop;psychedelic pop
+667;pop;pop;pop;pop;pop;rebetiko
+668;pop;pop;pop;pop;pop;schlager
+669;pop;pop;pop;pop;pop;sophisti-pop
+670;pop;pop;pop;pop;pop;space age pop
+671;pop;pop;pop;pop;pop;sunshine pop
+672;pop;pop;pop;pop;pop;surf pop
+673;pop;pop;pop;pop;pop;synthpop
+674;pop;pop;pop;pop;pop;teen pop
+675;pop;pop;pop;pop;pop;traditional pop music
+676;pop;pop;pop;pop;pop;turkish pop
+677;pop;pop;pop;pop;pop;vispop
+678;pop;pop;pop;pop;pop;wonky pop
+679;pop;pop;pop;pop;pop;worldbeat
+680;pop;pop;pop;pop;pop;pop
+681;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;contemporary r&b
+682;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;disco
+683;RandBandSoul;funk;funk;funk;funk;funk
+684;RandBandSoul;funk;funk;funk;funk;deep funk
+685;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;freestyle music
+686;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;go-go
+687;RandBandSoul;hip hop soul;hip hop soul;hip hop soul;hip hop soul;hip hop soul
+688;RandBandSoul;hip hop soul;hip hop soul;hip hop soul;hip hop soul;p-funk
+689;RandBandSoul;hip hop soul;hip hop soul;hip hop soul;hip hop soul;post-disco
+690;RandBandSoul;hip hop soul;hip hop soul;hip hop soul;hip hop soul;boogie
+691;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;new jack swing
+692;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;rhythm and blues
+693;RandBandSoul;soul;soul;soul;soul;soul
+694;RandBandSoul;soul;soul;soul;soul;blue-eyed soul
+695;RandBandSoul;soul;soul;soul;soul;hip hop soul
+696;RandBandSoul;soul;soul;soul;soul;northern soul
+697;RandBandSoul;soul;soul;soul;soul;neo soul
+698;RandBandSoul;soul;soul;soul;soul;southern soul
+699;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul;RandBandSoul
+700;rock;alternative rock;alternative rock;alternative rock;alternative rock;alternative rock
+701;rock;alternative rock;grunge;grunge;grunge;grunge
+702;rock;alternative rock;grunge;grunge;grunge;post-grunge
+703;rock;alternative rock;indie rock;indie rock;indie rock;indie
+704;rock;alternative rock;indie rock;indie rock;indie rock;indie rock
+705;rock;alternative rock;indie rock;indie rock;indie rock;dunedin sound
+706;rock;alternative rock;indie rock;indie rock;indie rock;math rock
+707;rock;alternative rock;indie rock;indie rock;indie rock;post-punk revival
+708;rock;alternative rock;alternative rock;alternative rock;alternative rock;sadcore
+709;rock;alternative rock;dream pop;dream pop;dream pop;dream pop
+710;rock;alternative rock;dream pop;dream pop;dream pop;shoegaze
+711;rock;alternative rock;alternative rock;alternative rock;alternative rock;slowcore
+712;rock;rock;rock;rock;rock;beat music
+713;rock;rock;rock;rock;rock;chinese rock
+714;rock;rock;rock;rock;rock;christian rock
+715;rock;rock;rock;rock;rock;dark cabaret
+716;rock;electronic rock;electronic rock;electronic rock;electronic rock;electronic rock
+717;rock;electronic rock;electronic rock;electronic rock;electronic rock;electronicore
+718;rock;experimental rock;experimental rock;experimental rock;experimental rock;experimental rock
+719;rock;experimental rock;experimental rock;experimental rock;experimental rock;art rock
+720;rock;experimental rock;experimental rock;experimental rock;experimental rock;industrial rock
+721;rock;experimental rock;post-punk;post-punk;post-punk;post-punk
+722;rock;experimental rock;post-punk;post-punk;post-punk;gothic rock
+723;rock;experimental rock;post-punk;post-punk;post-punk;no wave
+724;rock;experimental rock;post-punk;post-punk;post-punk;noise rock
+725;rock;experimental rock;post-rock;post-rock;post-rock;post-rock
+726;rock;experimental rock;post-rock;post-rock;post-rock;post-metal
+727;rock;rock;rock;rock;rock;folk rock
+728;rock;rock;rock;rock;rock;garage rock
+729;rock;rock;rock;rock;rock;glam rock
+730;rock;rock;rock;rock;rock;hard rock
+731;rock;heavy metal;heavy metal;heavy metal;heavy metal;heavy metal
+732;rock;heavy metal;heavy metal;heavy metal;heavy metal;alternative metal
+733;rock;heavy metal;heavy metal;heavy metal;heavy metal;avant-garde metal
+734;rock;heavy metal;black metal;black metal;black metal;black metal
+735;rock;heavy metal;black metal;black metal;black metal;symphonic black metal
+736;rock;heavy metal;black metal;black metal;black metal;viking metal
+737;rock;heavy metal;black metal;black metal;black metal;war metal
+738;rock;heavy metal;christian metal;christian metal;christian metal;christian metal
+739;rock;heavy metal;christian metal;christian metal;christian metal;unblack metal
+740;rock;heavy metal;death metal;death metal;death metal;death metal
+741;rock;heavy metal;death metal;death metal;death metal;death 'n' roll
+742;rock;heavy metal;death metal;death metal;death metal;melodic death metal
+743;rock;heavy metal;death metal;death metal;death metal;technical death metal
+744;rock;heavy metal;death metal;death metal;death metal;goregrind
+745;rock;heavy metal;doom metal;doom metal;doom metal;doom metal
+746;rock;heavy metal;doom metal;doom metal;doom metal;death-doom
+747;rock;heavy metal;heavy metal;heavy metal;heavy metal;drone metal
+748;rock;heavy metal;folk metal;folk metal;folk metal;folk metal
+749;rock;heavy metal;folk metal;folk metal;folk metal;celtic metal
+750;rock;heavy metal;folk metal;folk metal;folk metal;medieval metal
+751;rock;heavy metal;folk metal;folk metal;folk metal;pagan metal
+752;rock;heavy metal;heavy metal;heavy metal;heavy metal;funk metal
+753;rock;heavy metal;heavy metal;heavy metal;heavy metal;glam metal
+754;rock;heavy metal;heavy metal;heavy metal;heavy metal;gothic metal
+755;rock;heavy metal;heavy metal;heavy metal;heavy metal;grindcore
+756;rock;heavy metal;heavy metal;heavy metal;heavy metal;industrial metal
+757;rock;heavy metal;heavy metal;heavy metal;heavy metal;kawaii metal
+758;rock;heavy metal;heavy metal;heavy metal;heavy metal;latin metal
+759;rock;heavy metal;metalcore;metalcore;metalcore;metalcore
+760;rock;heavy metal;metalcore;metalcore;metalcore;melodic metalcore
+761;rock;heavy metal;metalcore;metalcore;metalcore;deathcore
+762;rock;heavy metal;metalcore;metalcore;metalcore;mathcore
+763;rock;heavy metal;heavy metal;heavy metal;heavy metal;metalstep
+764;rock;heavy metal;heavy metal;heavy metal;heavy metal;neoclassical metal
+765;rock;heavy metal;heavy metal;heavy metal;heavy metal;neue deutsche härte
+766;rock;heavy metal;heavy metal;heavy metal;heavy metal;nu metal
+767;rock;heavy metal;heavy metal;heavy metal;heavy metal;post-metal
+768;rock;heavy metal;heavy metal;heavy metal;heavy metal;power metal
+769;rock;heavy metal;progressive metal;progressive metal;progressive metal;progressive metal
+770;rock;heavy metal;progressive metal;progressive metal;progressive metal;djent
+771;rock;heavy metal;heavy metal;heavy metal;heavy metal;rap metal
+772;rock;heavy metal;heavy metal;heavy metal;heavy metal;sludge metal
+773;rock;heavy metal;heavy metal;heavy metal;heavy metal;speed metal
+774;rock;heavy metal;heavy metal;heavy metal;heavy metal;symphonic metal
+775;rock;heavy metal;thrash metal;thrash metal;thrash metal;thrash metal
+776;rock;heavy metal;thrash metal;thrash metal;thrash metal;crossover thrash
+777;rock;heavy metal;thrash metal;thrash metal;thrash metal;groove metal
+778;rock;rock;rock;rock;rock;jazz rock
+779;rock;new wave;new wave;new wave;new wave;new wave
+780;rock;new wave;new wave;new wave;new wave;world fusion
+781;rock;rock;rock;rock;rock;paisley underground
+782;rock;rock;rock;rock;rock;desert rock
+783;rock;pop rock;pop rock;pop rock;pop rock;pop rock
+784;rock;pop rock;pop rock;pop rock;pop rock;soft rock
+785;rock;progressive rock;progressive rock;progressive rock;progressive rock;progressive rock
+786;rock;progressive rock;progressive rock;progressive rock;progressive rock;canterbury scene
+787;rock;progressive rock;progressive rock;progressive rock;progressive rock;krautrock
+788;rock;progressive rock;progressive rock;progressive rock;progressive rock;new prog
+789;rock;progressive rock;progressive rock;progressive rock;progressive rock;rock in opposition
+790;rock;progressive rock;progressive rock;progressive rock;progressive rock;space rock
+791;rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock
+792;rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;acid rock
+793;rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;freakbeat
+794;rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;neo-psychedelia
+795;rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;raga rock
+796;rock;punk rock;punk rock;punk rock;punk rock;punk
+797;rock;punk rock;punk rock;punk rock;punk rock;punk rock
+798;rock;punk rock;anarcho punk;anarcho punk;anarcho punk;anarcho punk
+799;rock;punk rock;anarcho punk;crust punk;crust punk;crust punk
+800;rock;punk rock;anarcho punk;crust punk;crust punk;d-beat
+801;rock;punk rock;punk rock;punk rock;punk rock;art punk
+802;rock;punk rock;punk rock;punk rock;punk rock;christian punk
+803;rock;punk rock;punk rock;punk rock;punk rock;deathrock
+804;rock;punk rock;punk rock;punk rock;punk rock;digital hardcore
+805;rock;punk rock;folk punk;folk punk;folk punk;folk punk
+806;rock;punk rock;folk punk;folk punk;folk punk;celtic punk
+807;rock;punk rock;folk punk;folk punk;folk punk;cowpunk
+808;rock;punk rock;folk punk;folk punk;folk punk;gypsy punk
+809;rock;punk rock;punk rock;punk rock;punk rock;garage punk
+810;rock;punk rock;grindcore;grindcore;grindcore;grindcore
+811;rock;punk rock;grindcore;grindcore;grindcore;crustgrind
+812;rock;punk rock;grindcore;grindcore;grindcore;noisegrind
+813;rock;punk rock;hardcore punk;hardcore punk;hardcore punk;hardcore punk
+814;rock;punk rock;hardcore punk;post-hardcore;post-hardcore;post-hardcore
+815;rock;punk rock;hardcore punk;post-hardcore;emo;emo
+816;rock;punk rock;hardcore punk;post-hardcore;emo;screamo
+817;rock;punk rock;hardcore punk;hardcore punk;hardcore punk;thrashcore
+818;rock;punk rock;hardcore punk;hardcore punk;hardcore punk;crossover thrash
+819;rock;punk rock;hardcore punk;hardcore punk;hardcore punk;powerviolence
+820;rock;punk rock;hardcore punk;hardcore punk;hardcore punk;street punk
+821;rock;punk rock;punk rock;punk rock;punk rock;horror punk
+822;rock;punk rock;punk rock;punk rock;punk rock;pop punk
+823;rock;punk rock;punk rock;punk rock;punk rock;psychobilly
+824;rock;punk rock;punk rock;punk rock;punk rock;riot grrrl
+825;rock;punk rock;punk rock;punk rock;punk rock;ska punk
+826;rock;punk rock;punk rock;punk rock;punk rock;skate punk
+827;rock;rap rock;rap rock;rap rock;rap rock;rap rock
+828;rock;rap rock;rap rock;rap rock;rap rock;rapcore
+829;rock;rock;rock;rock;rock;rock and roll
+830;rock;rock;rock;rock;rock;southern rock
+831;rock;rock;rock;rock;rock;stoner rock
+832;rock;rock;rock;rock;rock;sufi rock
+833;rock;rock;rock;rock;rock;surf rock
+834;rock;visual kei;visual kei;visual kei;visual kei;visual kei
+835;rock;visual kei;visual kei;visual kei;visual kei;nagoya kei
+836;rock;rock;rock;rock;rock;worldbeat
+837;rock;rock;rock;rock;rock;rock
+838;r&b;r&b;r&b;r&b;r&b;r&b
