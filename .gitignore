@@ -1,1 +1,10 @@
+#ignore the archive folder
 Archive/
+
+#ignore the saved data
+data.csv
+Data/data.csv
+
+#ignore the encrypted credential details
+salt.txt
+CRYPTCREDENTIALS.csv
