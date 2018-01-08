@@ -1,0 +1,215 @@
+;0;tier;1;2;3;4;genre
+0;electronic;1;ambient;ambient;ambient;ambient;ambient
+1;electronic;2;ambient;ambient;ambient;ambient;ambient dub
+2;electronic;2;ambient;ambient;ambient;ambient;dark ambient
+3;electronic;2;ambient;ambient;ambient;ambient;drone music
+4;electronic;2;ambient;ambient;ambient;ambient;space music
+5;electronic;2;ambient;ambient;ambient;ambient;illbient
+6;electronic;2;ambient;ambient;ambient;ambient;psybient
+7;electronic;2;ambient;ambient;ambient;ambient;isolationism
+8;electronic;2;ambient;ambient;ambient;ambient;lowercase
+9;electronic;1;electronic;electronic;electronic;electronic;asian underground
+10;electronic;1;breakbeat;breakbeat;breakbeat;breakbeat;breakbeat
+11;electronic;2;breakbeat;breakbeat;breakbeat;breakbeat;acid breaks
+12;electronic;2;breakbeat;breakbeat;breakbeat;breakbeat;baltimore club
+13;electronic;2;breakbeat;breakbeat;breakbeat;breakbeat;big beat
+14;electronic;2;breakbeat;breakbeat;breakbeat;breakbeat;broken beat
+15;electronic;2;breakbeat;florida breaks;florida breaks;florida breaks;florida breaks
+16;electronic;3;breakbeat;florida breaks;florida breaks;florida breaks;nu-funk
+17;electronic;3;breakbeat;florida breaks;florida breaks;florida breaks;miami bass
+18;electronic;2;breakbeat;breakbeat;breakbeat;breakbeat;jersey club
+19;electronic;2;breakbeat;breakbeat;breakbeat;breakbeat;nu skool breaks
+20;electronic;1;disco;disco;disco;disco;disco
+21;electronic;2;disco;disco;disco;disco;afro disc
+22;electronic;2;disco;disco;disco;disco;cosmic disco
+23;electronic;2;disco;disco;disco;disco;disco polo
+24;electronic;2;disco;disco;disco;disco;euro disco
+25;electronic;2;disco;disco;disco;disco;italo disco
+26;electronic;2;disco;disco;disco;disco;nu-disco
+27;electronic;2;disco;disco;disco;disco;space disco
+28;electronic;1;downtempo;downtempo;downtempo;downtempo;downtempo
+29;electronic;2;downtempo;downtempo;downtempo;downtempo;acid jazz
+30;electronic;2;downtempo;downtempo;downtempo;downtempo;chill-out
+31;electronic;2;downtempo;new-age music;new-age music;new-age music;new-age music
+32;electronic;3;downtempo;new-age music;new-age music;new-age music;space music
+33;electronic;2;downtempo;downtempo;downtempo;downtempo;trip hop
+34;electronic;1;drum and bass;drum and bass;drum and bass;drum and bass;drum and bass
+35;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;darkstep
+36;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;drill and bass
+37;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;drumstep
+38;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;funkstep
+39;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;hardstep
+40;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;jump-up
+41;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;liquid funk
+42;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;neurofunk
+43;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;neurohop
+44;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;sambass
+45;electronic;2;drum and bass;drum and bass;drum and bass;drum and bass;techstep
+46;electronic;1;electronic;electronic;electronic;electronic;dub
+47;electronic;1;electro music;electro music;electro music;electro music;electro music
+48;electronic;2;electro music;electro music;electro music;electro music;freestyle music
+49;electronic;1;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music
+50;electronic;2;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music;acousmatic music
+51;electronic;2;electroacoustic music;electroacoustic music;electroacoustic music;electroacoustic music;musique concrète
+52;electronic;1;electronic rock;electronic rock;electronic rock;electronic rock;electronic rock
+53;electronic;2;electronic rock;alternative dance;alternative dance;alternative dance;alternative dance
+54;electronic;3;electronic rock;alternative dance;alternative dance;alternative dance;indietronica
+55;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;coldwave
+56;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;dance-punk
+57;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;dark wave
+58;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;electroclash
+59;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;electronicore
+60;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;electropunk
+61;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;ethereal wave
+62;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;krautrock
+63;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;minimal wave
+64;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;new rave
+65;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;nu-gaze
+66;electronic;2;electronic rock;electronic rock;electronic rock;electronic rock;space rock
+67;electronic;2;electronic rock;synthpop;synthpop;synthpop;synthpop
+68;electronic;3;electronic rock;synthpop;synthpop;synthpop;synthwave
+69;electronic;1;electronica;electronica;electronica;electronica;electronica
+70;electronic;2;electronica;electronica;electronica;electronica;berlin school
+71;electronic;2;electronica;electronica;electronica;electronica;dubtronica
+72;electronic;2;electronica;electronica;electronica;electronica;ethnic electronica
+73;electronic;2;electronica;electronica;electronica;electronica;folktronica
+74;electronic;2;electronica;electronica;electronica;electronica;funktronica
+75;electronic;2;electronica;electronica;electronica;electronica;laptronica
+76;electronic;2;electronica;electronica;electronica;electronica;livetronica
+77;electronic;1;hardcore;hardcore;hardcore;hardcore;hardcore
+78;electronic;2;hardcore;hardcore;hardcore;hardcore;gabba
+79;electronic;2;hardcore;hardcore;hardcore;hardcore;4-beat
+80;electronic;2;hardcore;hardcore;hardcore;hardcore;breakbeat hardcore
+81;electronic;2;hardcore;hardcore;hardcore;hardcore;bouncy techno
+82;electronic;2;hardcore;hardcore;hardcore;hardcore;breakcore
+83;electronic;2;hardcore;hardcore;hardcore;hardcore;digital hardcore
+84;electronic;2;hardcore;hardcore;hardcore;hardcore;darkcore
+85;electronic;2;hardcore;hardcore;hardcore;hardcore;happy hardcore
+86;electronic;2;hardcore;hardcore;hardcore;hardcore;mákina
+87;electronic;2;hardcore;hardcore;hardcore;hardcore;speedcore
+88;electronic;2;hardcore;hardcore;hardcore;hardcore;uk hardcore
+89;electronic;2;hardcore;hardcore;hardcore;hardcore;doomcore
+90;electronic;1;hardstyle;hardstyle;hardstyle;hardstyle;hardstyle
+91;electronic;2;hardstyle;hardstyle;hardstyle;hardstyle;dubstyle
+92;electronic;2;hardstyle;hardstyle;hardstyle;hardstyle;jumpstyle
+93;electronic;2;hardstyle;hardstyle;hardstyle;hardstyle;lento violento
+94;electronic;1;hi-nrg;hi-nrg;hi-nrg;hi-nrg;hi-nrg
+95;electronic;2;hi-nrg;hi-nrg;hi-nrg;hi-nrg;eurobeat
+96;electronic;2;hi-nrg;eurodance;eurodance;eurodance;eurodance
+97;electronic;3;hi-nrg;eurodance;eurodance;eurodance;bubblegum dance
+98;electronic;3;hi-nrg;eurodance;eurodance;eurodance;italo dance
+99;electronic;1;house music;house music;house music;house music;house music
+100;electronic;2;house music;house music;house music;house music;acid house
+101;electronic;2;house music;house music;house music;house music;ambient house
+102;electronic;2;house music;house music;house music;house music;balearic beat
+103;electronic;2;house music;house music;house music;house music;chicago house
+104;electronic;2;house music;deep house;deep house;deep house;deep house
+105;electronic;3;house music;deep house;deep house;deep house;future house
+106;electronic;3;house music;deep house;deep house;deep house;tropical house
+107;electronic;2;house music;house music;house music;house music;bouncy house
+108;electronic;2;house music;house music;house music;house music;diva house
+109;electronic;2;house music;electro house;electro house;electro house;electro house
+110;electronic;3;house music;electro house;electro house;electro house;big room
+111;electronic;3;house music;electro house;electro house;electro house;complextro
+112;electronic;3;house music;electro house;electro house;electro house;fidget house
+113;electronic;3;house music;electro house;electro house;electro house;dutch house
+114;electronic;3;house music;electro house;moombahton;moombahton;moombahton
+115;electronic;4;house music;electro house;moombahton;moombahton;moombahcore
+116;electronic;2;house music;house music;house music;house music;electro swing
+117;electronic;2;house music;house music;house music;house music;french house
+118;electronic;2;house music;house music;house music;house music;funky house
+119;electronic;2;house music;house music;house music;house music;garage house
+120;electronic;2;house music;ghetto house;ghetto house;ghetto house;ghetto house
+121;electronic;3;house music;ghetto house;ghetto house;ghetto house;ghettotech
+122;electronic;2;house music;house music;house music;house music;hardbag
+123;electronic;2;house music;hard house;hard house;hard house;hard house
+124;electronic;3;house music;hard house;hard nrg;hard nrg;hard nrg
+125;electronic;4;house music;hard house;hard nrg;hard nrg;nu-nrg
+126;electronic;2;house music;house music;house music;house music;hip house
+127;electronic;2;house music;house music;house music;house music;italo house
+128;electronic;2;house music;house music;house music;house music;jazz house
+129;electronic;2;house music;house music;house music;house music;kwaito
+130;electronic;2;house music;house music;house music;house music;latin house
+131;electronic;2;house music;house music;house music;house music;microhouse
+132;electronic;2;house music;house music;house music;house music;new beat
+133;electronic;2;house music;house music;house music;house music;outsider house
+134;electronic;2;house music;house music;house music;house music;progressive house
+135;electronic;2;house music;house music;house music;house music;rara tech
+136;electronic;2;house music;house music;house music;house music;tech house
+137;electronic;2;house music;house music;house music;house music;tribal house
+138;electronic;2;house music;house music;house music;house music;trival
+139;electronic;2;house music;house music;house music;house music;witch house
+140;electronic;1;industrial music;industrial music;industrial music;industrial music;industrial music
+141;electronic;2;industrial music;industrial music;industrial music;industrial music;aggrotech
+142;electronic;2;industrial music;industrial music;industrial music;industrial music;cybergrind
+143;electronic;2;industrial music;industrial music;industrial music;industrial music;electro-industrial
+144;electronic;2;industrial music;industrial music;industrial music;industrial music;dark electro
+145;electronic;2;industrial music;industrial music;industrial music;industrial music;electronic body music
+146;electronic;2;industrial music;industrial music;industrial music;industrial music;futurepop
+147;electronic;2;industrial music;industrial music;industrial music;industrial music;industrial metal
+148;electronic;2;industrial music;industrial music;industrial music;industrial music;industrial rock
+149;electronic;2;industrial music;industrial music;industrial music;industrial music;japanoise
+150;electronic;2;industrial music;industrial music;industrial music;industrial music;neue deutsche härte
+151;electronic;2;industrial music;power electronics;power electronics;power electronics;power electronics
+152;electronic;3;industrial music;power electronics;power electronics;power electronics;death industrial
+153;electronic;2;industrial music;industrial music;industrial music;industrial music;power noise
+154;electronic;1;idm;idm;idm;idm;idm
+155;electronic;2;idm;glitch;glitch;glitch;glitch
+156;electronic;3;idm;glitch;glitch;glitch;glitch hop
+157;electronic;2;idm;idm;idm;idm;wonky
+158;electronic;1;jungle;jungle;jungle;jungle;jungle
+159;electronic;2;jungle;jungle;jungle;jungle;darkcore jungle
+160;electronic;2;jungle;jungle;jungle;jungle;raggacore
+161;electronic;1;post-disco;post-disco;post-disco;post-disco;post-disco
+162;electronic;2;post-disco;post-disco;post-disco;post-disco;boogie
+163;electronic;2;post-disco;electropop;electropop;electropop;electropop
+164;electronic;3;post-disco;electropop;electropop;electropop;chillwave
+165;electronic;2;post-disco;post-disco;post-disco;post-disco;dance-pop
+166;electronic;2;post-disco;post-disco;post-disco;post-disco;dance-rock
+167;electronic;1;techno;techno;techno;techno;techno
+168;electronic;2;techno;techno;techno;techno;acid techno
+169;electronic;2;techno;techno;techno;techno;detroit techno
+170;electronic;2;techno;techno;techno;techno;dub techno
+171;electronic;2;techno;techno;techno;techno;free tekno
+172;electronic;2;techno;techno;techno;techno;minimal techno
+173;electronic;2;techno;techno;techno;techno;nortec
+174;electronic;2;techno;techno;techno;techno;tecno brega
+175;electronic;2;techno;techno;techno;techno;techdombe
+176;electronic;1;trance music;trance music;trance music;trance music;trance music
+177;electronic;2;trance music;trance music;trance music;trance music;acid trance
+178;electronic;2;trance music;trance music;trance music;trance music;balearic trance
+179;electronic;2;trance music;trance music;trance music;trance music;dream trance
+180;electronic;2;trance music;trance music;trance music;trance music;goa trance
+181;electronic;2;trance music;trance music;trance music;trance music;hard trance
+182;electronic;2;trance music;trance music;trance music;trance music;nitzhonot
+183;electronic;2;trance music;psychedelic trance;psychedelic trance;psychedelic trance;psychedelic trance
+184;electronic;3;trance music;psychedelic trance;psychedelic trance;psychedelic trance;suomisaundi
+185;electronic;3;trance music;psychedelic trance;psychedelic trance;psychedelic trance;full on
+186;electronic;2;trance music;trance music;trance music;trance music;progressive trance
+187;electronic;2;trance music;trance music;trance music;trance music;tech trance
+188;electronic;2;trance music;trance music;trance music;trance music;uplifting trance
+189;electronic;2;trance music;trance music;trance music;trance music;vocal trance
+190;electronic;1;uk garage;uk garage;uk garage;uk garage;uk garage
+191;electronic;2;uk garage;2-step garage;2-step garage;2-step garage;2-step garage
+192;electronic;3;uk garage;2-step garage;dubstep;dubstep;dubstep
+193;electronic;4;uk garage;2-step garage;dubstep;dubstep;brostep
+194;electronic;4;uk garage;2-step garage;dubstep;dubstep;chillstep
+195;electronic;4;uk garage;2-step garage;dubstep;dubstep;reggaestep
+196;electronic;4;uk garage;2-step garage;dubstep;dubstep;trapstep
+197;electronic;4;uk garage;2-step garage;dubstep;dubstep;liquid dubstep
+198;electronic;4;uk garage;2-step garage;dubstep;dubstep;metalstep
+199;electronic;3;uk garage;2-step garage;2-step garage;2-step garage;neurohop
+200;electronic;2;uk garage;uk garage;uk garage;uk garage;breakstep
+201;electronic;2;uk garage;uk garage;uk garage;uk garage;future garage
+202;electronic;2;uk garage;grime;grime;grime;grime
+203;electronic;3;uk garage;grime;grime;grime;grindie
+204;electronic;2;uk garage;speed garage;speed garage;speed garage;speed garage
+205;electronic;3;uk garage;speed garage;speed garage;speed garage;bassline
+206;electronic;2;uk garage;uk garage;uk garage;uk garage;uk funky
+207;electronic;1;electronic;electronic;electronic;electronic;vaporwave
+208;electronic;1;video game music;video game music;video game music;video game music;video game music
+209;electronic;2;video game music;chiptune;chiptune;chiptune;chiptune
+210;electronic;3;video game music;chiptune;chiptune;chiptune;bitpop
+211;electronic;3;video game music;chiptune;chiptune;chiptune;game boy music
+212;electronic;3;video game music;chiptune;chiptune;chiptune;skweee
+213;electronic;2;video game music;video game music;video game music;video game music;nintendocore

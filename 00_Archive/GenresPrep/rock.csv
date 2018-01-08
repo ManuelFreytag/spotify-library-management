@@ -1,0 +1,136 @@
+;0;tier;1;2;3;4;genre
+3;rock;1;alternative rock;alternative rock;alternative rock;alternative rock;alternative rock
+4;rock;2;alternative rock;grunge;grunge;grunge;grunge
+5;rock;3;alternative rock;grunge;grunge;grunge;post-grunge
+6;rock;2;alternative rock;indie rock;indie rock;indie rock;indie rock
+7;rock;3;alternative rock;indie rock;indie rock;indie rock;dunedin sound
+8;rock;3;alternative rock;indie rock;indie rock;indie rock;math rock
+9;rock;3;alternative rock;indie rock;indie rock;indie rock;post-punk revival
+10;rock;2;alternative rock;alternative rock;alternative rock;alternative rock;sadcore
+11;rock;2;alternative rock;dream pop;dream pop;dream pop;dream pop
+12;rock;3;alternative rock;dream pop;dream pop;dream pop;shoegaze
+13;rock;2;alternative rock;alternative rock;alternative rock;alternative rock;slowcore
+14;rock;1;rock;rock;rock;rock;beat music
+15;rock;1;rock;rock;rock;rock;chinese rock
+16;rock;1;rock;rock;rock;rock;christian rock
+17;rock;1;rock;rock;rock;rock;dark cabaret
+18;rock;1;electronic rock;electronic rock;electronic rock;electronic rock;electronic rock
+19;rock;2;electronic rock;electronic rock;electronic rock;electronic rock;electronicore
+20;rock;1;experimental rock;experimental rock;experimental rock;experimental rock;experimental rock
+21;rock;2;experimental rock;experimental rock;experimental rock;experimental rock;art rock
+22;rock;2;experimental rock;experimental rock;experimental rock;experimental rock;industrial rock
+23;rock;2;experimental rock;post-punk;post-punk;post-punk;post-punk
+24;rock;3;experimental rock;post-punk;post-punk;post-punk;gothic rock
+25;rock;3;experimental rock;post-punk;post-punk;post-punk;no wave
+26;rock;3;experimental rock;post-punk;post-punk;post-punk;noise rock
+27;rock;2;experimental rock;post-rock;post-rock;post-rock;post-rock
+28;rock;3;experimental rock;post-rock;post-rock;post-rock;post-metal
+29;rock;1;rock;rock;rock;rock;folk rock
+30;rock;1;rock;rock;rock;rock;garage rock
+31;rock;1;rock;rock;rock;rock;glam rock
+32;rock;1;rock;rock;rock;rock;hard rock
+33;rock;1;heavy metal;heavy metal;heavy metal;heavy metal;heavy metal
+34;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;alternative metal
+35;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;avant-garde metal
+36;rock;2;heavy metal;black metal;black metal;black metal;black metal
+37;rock;3;heavy metal;black metal;black metal;black metal;symphonic black metal
+38;rock;3;heavy metal;black metal;black metal;black metal;viking metal
+39;rock;3;heavy metal;black metal;black metal;black metal;war metal
+40;rock;2;heavy metal;christian metal;christian metal;christian metal;christian metal
+41;rock;3;heavy metal;christian metal;christian metal;christian metal;unblack metal
+42;rock;2;heavy metal;death metal;death metal;death metal;death metal
+43;rock;3;heavy metal;death metal;death metal;death metal;death 'n' roll
+44;rock;3;heavy metal;death metal;death metal;death metal;melodic death metal
+45;rock;3;heavy metal;death metal;death metal;death metal;technical death metal
+46;rock;3;heavy metal;death metal;death metal;death metal;goregrind
+47;rock;2;heavy metal;doom metal;doom metal;doom metal;doom metal
+48;rock;3;heavy metal;doom metal;doom metal;doom metal;death-doom
+49;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;drone metal
+50;rock;2;heavy metal;folk metal;folk metal;folk metal;folk metal
+51;rock;3;heavy metal;folk metal;folk metal;folk metal;celtic metal
+52;rock;3;heavy metal;folk metal;folk metal;folk metal;medieval metal
+53;rock;3;heavy metal;folk metal;folk metal;folk metal;pagan metal
+54;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;funk metal
+55;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;glam metal
+56;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;gothic metal
+57;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;grindcore
+58;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;industrial metal
+59;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;kawaii metal
+60;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;latin metal
+61;rock;2;heavy metal;metalcore;metalcore;metalcore;metalcore
+62;rock;3;heavy metal;metalcore;metalcore;metalcore;melodic metalcore
+63;rock;3;heavy metal;metalcore;metalcore;metalcore;deathcore
+64;rock;3;heavy metal;metalcore;metalcore;metalcore;mathcore
+65;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;metalstep
+66;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;neoclassical metal
+67;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;neue deutsche härte
+68;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;nu metal
+69;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;post-metal
+70;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;power metal
+71;rock;2;heavy metal;progressive metal;progressive metal;progressive metal;progressive metal
+72;rock;3;heavy metal;progressive metal;progressive metal;progressive metal;djent
+73;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;rap metal
+74;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;sludge metal
+75;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;speed metal
+76;rock;2;heavy metal;heavy metal;heavy metal;heavy metal;symphonic metal
+77;rock;2;heavy metal;thrash metal;thrash metal;thrash metal;thrash metal
+78;rock;3;heavy metal;thrash metal;thrash metal;thrash metal;crossover thrash
+79;rock;3;heavy metal;thrash metal;thrash metal;thrash metal;groove metal
+80;rock;1;rock;rock;rock;rock;jazz rock
+81;rock;1;new wave;new wave;new wave;new wave;new wave
+82;rock;2;new wave;new wave;new wave;new wave;world fusion
+83;rock;1;rock;rock;rock;rock;paisley underground
+84;rock;1;rock;rock;rock;rock;desert rock
+85;rock;1;pop rock;pop rock;pop rock;pop rock;pop rock
+86;rock;2;pop rock;pop rock;pop rock;pop rock;soft rock
+87;rock;1;progressive rock;progressive rock;progressive rock;progressive rock;progressive rock
+88;rock;2;progressive rock;progressive rock;progressive rock;progressive rock;canterbury scene
+89;rock;2;progressive rock;progressive rock;progressive rock;progressive rock;krautrock
+90;rock;2;progressive rock;progressive rock;progressive rock;progressive rock;new prog
+91;rock;2;progressive rock;progressive rock;progressive rock;progressive rock;rock in opposition
+92;rock;2;progressive rock;progressive rock;progressive rock;progressive rock;space rock
+93;rock;1;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock
+94;rock;2;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;acid rock
+95;rock;2;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;freakbeat
+96;rock;2;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;neo-psychedelia
+97;rock;2;psychedelic rock;psychedelic rock;psychedelic rock;psychedelic rock;raga rock
+98;rock;1;punk rock;punk rock;punk rock;punk rock;punk rock
+99;rock;2;punk rock;anarcho punk;anarcho punk;anarcho punk;anarcho punk
+100;rock;3;punk rock;anarcho punk;crust punk;crust punk;crust punk
+101;rock;4;punk rock;anarcho punk;crust punk;crust punk;d-beat
+102;rock;2;punk rock;punk rock;punk rock;punk rock;art punk
+103;rock;2;punk rock;punk rock;punk rock;punk rock;christian punk
+104;rock;2;punk rock;punk rock;punk rock;punk rock;deathrock
+105;rock;2;punk rock;punk rock;punk rock;punk rock;digital hardcore
+106;rock;2;punk rock;folk punk;folk punk;folk punk;folk punk
+107;rock;3;punk rock;folk punk;folk punk;folk punk;celtic punk
+108;rock;3;punk rock;folk punk;folk punk;folk punk;cowpunk
+109;rock;3;punk rock;folk punk;folk punk;folk punk;gypsy punk
+110;rock;2;punk rock;punk rock;punk rock;punk rock;garage punk
+111;rock;2;punk rock;grindcore;grindcore;grindcore;grindcore
+112;rock;3;punk rock;grindcore;grindcore;grindcore;crustgrind
+113;rock;3;punk rock;grindcore;grindcore;grindcore;noisegrind
+114;rock;2;punk rock;hardcore punk;hardcore punk;hardcore punk;hardcore punk
+115;rock;3;punk rock;hardcore punk;post-hardcore;post-hardcore;post-hardcore
+116;rock;4;punk rock;hardcore punk;post-hardcore;emo;emo
+117;rock;5;punk rock;hardcore punk;post-hardcore;emo;screamo
+118;rock;3;punk rock;hardcore punk;hardcore punk;hardcore punk;thrashcore
+119;rock;3;punk rock;hardcore punk;hardcore punk;hardcore punk;crossover thrash
+120;rock;3;punk rock;hardcore punk;hardcore punk;hardcore punk;powerviolence
+121;rock;3;punk rock;hardcore punk;hardcore punk;hardcore punk;street punk
+122;rock;2;punk rock;punk rock;punk rock;punk rock;horror punk
+123;rock;2;punk rock;punk rock;punk rock;punk rock;pop punk
+124;rock;2;punk rock;punk rock;punk rock;punk rock;psychobilly
+125;rock;2;punk rock;punk rock;punk rock;punk rock;riot grrrl
+126;rock;2;punk rock;punk rock;punk rock;punk rock;ska punk
+127;rock;2;punk rock;punk rock;punk rock;punk rock;skate punk
+128;rock;1;rap rock;rap rock;rap rock;rap rock;rap rock
+129;rock;2;rap rock;rap rock;rap rock;rap rock;rapcore
+130;rock;1;rock;rock;rock;rock;rock and roll
+131;rock;1;rock;rock;rock;rock;southern rock
+132;rock;1;rock;rock;rock;rock;stoner rock
+133;rock;1;rock;rock;rock;rock;sufi rock
+134;rock;1;rock;rock;rock;rock;surf rock
+135;rock;1;visual kei;visual kei;visual kei;visual kei;visual kei
+136;rock;2;visual kei;visual kei;visual kei;visual kei;nagoya kei
+137;rock;1;rock;rock;rock;rock;worldbeat

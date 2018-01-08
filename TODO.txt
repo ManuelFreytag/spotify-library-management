@@ -1,0 +1,42 @@
+Write app to determine an optimized abspiel schedule
+
+In what existing lists is the song
+Meta data
+etc.
+
+->
+Use: http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6 to play the song afterwards
+
+Algorithm Idea:
+Create clustering regardings genres (high priority)
+Add other aspects as well (low priority for unclusterable parts)
+
+ToDo:
+Preprocessing of genres
+
+Afterwards:
+Play with the recommendation plugin
+
+Steps:
+0) Create a file of all credentials 
+1) Get all playlists of me
+2) Get a list of (dublicate free) songs
+4) Get track features
+	4) What features are available
+	5) What features are usefull
+	6) How can I add new features?
+5) Perform clustering
+6) Gather ranking based on similarity to eachother
+
+-> try to generate a usefull sequence and alter it accordingly
+
+Next Steps:
+Prioritize the consideration genre and genre changes in the sequence
+Create new sequences based on highs, lows and similarity
+Build new attributes to tracks
+Classify new tracks based on new attribute (e.g. chill etc.)
+Use the new class to create start and end points of the cluster rankings!
+
+Think of project for combination of predictive and prescriptive analytics!!!
+
+spotify:track:0sdbfpJ06wLIGHHWXMMsyJ

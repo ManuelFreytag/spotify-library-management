@@ -13,20 +13,15 @@ importlib.reload(dataImport)
 
 def main():
     credentials = login()
-    
-    deselect = ["Hörbücher"]
     username = "manu.freytag@web.de"
     
     data = dataImport.getData(credentials,username, saved = True)
     #data = dataImport.getData(credentials,username, saved = False, deselect = deselect)
-    
     return data
     
-
 data = main()
 data.to_csv("data.csv", sep = ";", decimal = ",")
     
-
 #Data exploration
 #1) number of songs without genre
 #2) number of songs that share not a single genre with anyone else

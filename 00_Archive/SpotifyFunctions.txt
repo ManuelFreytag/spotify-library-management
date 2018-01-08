@@ -1,0 +1,12 @@
+Recommondations
+Get users top artists and tracks
+Get current users Recently played tracks
+Get Users followed artists
+
+Set customized parameter limits for recommendations limits based on the average parameters in the list
+-> Popularity
+-> Accusticness etc
+
+Min, max, target
+
+Must haves
